@@ -1,1 +1,0 @@
-Sistema Operativo: Windows 11 con MinGW (gcc)
